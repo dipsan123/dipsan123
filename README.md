@@ -5,7 +5,7 @@
 ###
 [![](https://visitcount.itsvg.in/api?id=dipsan123&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYzYzU1dmc1ZWFweWY0bGZwdzdvdzNtaTZvMm9jMTZ0Y2YxeGt1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYzYzU1dmc1ZWFweWY0bGZwdzdvdzNtaTZvMm9jMTZ0Y2YxeGt1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Dipsan Dhital) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/दिप्शन धिताल ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipsandhital) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dipsan Dhital) 
