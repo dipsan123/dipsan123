@@ -26,4 +26,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dipsan123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# Some Entertainment
+![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
