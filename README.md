@@ -1,11 +1,26 @@
+<h1 align="left">Hi 👋! I am Dipsan Dhital...</h1>
 
+###
+
+<h3 align="left">I'm a Student and Developer!</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" height="343" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4714hq77yr7a4tjyzjjvwmhte7skcopwdfbscz4bxw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+
+
+
+###
 # 💫 About Me:
 💬 Ask me about Javascript, C#<br><br>📫 How to reach me dipsandhital001@gmail.com<br><br>📄 Know about my experiences loading.....<br><br>⚡ Fun fact I think i am smart and funny
 
 ###
 [![](https://visitcount.itsvg.in/api?id=dipsan123&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDYzYzU1dmc1ZWFweWY0bGZwdzdvdzNtaTZvMm9jMTZ0Y2YxeGt1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Dipsan Dhital) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/दिप्शन धिताल ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipsandhital) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dipsan Dhital) 
