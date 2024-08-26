@@ -26,7 +26,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dipsan123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+### Snake eat
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dipsan123/dipsan123/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
