@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on School Management System<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on Python<br><br>🤝 I’m looking for help with snake<br><br>👨‍💻 All of my projects are available at loading......<br><br>📝 I regularly write articles on loading......<br><br>💬 Ask me about Javascript, C#<br><br>📫 How to reach me dipsandhital001@gmail.com<br><br>📄 Know about my experiences loading.....<br><br>⚡ Fun fact I think i am smart and funny
+💬 Ask me about Javascript, C#<br><br>📫 How to reach me dipsandhital001@gmail.com<br><br>📄 Know about my experiences loading.....<br><br>⚡ Fun fact I think i am smart and funny
 
 ###
 [![](https://visitcount.itsvg.in/api?id=dipsan123&icon=4&color=0)](https://visitcount.itsvg.in)
